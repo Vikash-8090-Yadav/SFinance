@@ -4,7 +4,9 @@
 
 ## This dapp is live : https://s-finance-murex.vercel.app/
 
+ Video Demo: https://youtu.be/lVsQAIQHVLI
 
+X post: https://x.com/Web3Primee/status/1869352654859817149
 
 
 #  Motivation
